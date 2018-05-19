@@ -5,3 +5,13 @@ import Component from './component'
 
 ReactDOM.render(<Component value='Show!'/>, document.getElementById('app'))
 
+teste
+
+
+teste
+
+
+teste
+
+
+
