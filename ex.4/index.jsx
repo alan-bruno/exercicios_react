@@ -1,9 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Field from './field'
+import {Primeiro, Segundo} from './component'
+
 
 ReactDOM.render(
-<Field initialValue='Teste'/>
+<div>
+    <Primeiro/>
+    <Segundo/>
+</div>
 , document.getElementById('app'))
-
 
